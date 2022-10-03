@@ -1,4 +1,4 @@
-# 🪙 Kick Bot for Telegram
+#Kick Bot for Telegram
 Bot kicks fans of blue text in telegram
 
 [Try the my bot](https://t.me/sofiarolbot)
